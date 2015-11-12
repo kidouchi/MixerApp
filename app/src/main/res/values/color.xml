@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="mixer_button_color_1">#FFCDD2</color>
+    <color name="mixer_button_color_2">#EF9A9A</color>
+    <color name="mixer_button_color_3">#F8BBD0</color>
+    <color name="mixer_button_color_4">#F48FB1</color>
+    <color name="mixer_button_color_5">#E1BEE7</color>
+    <color name="mixer_button_color_6">#CE93D8</color>
+    <color name="mixer_button_color_7">#D1C4E9</color>
+    <color name="mixer_button_color_8">#B39DDB</color>
+    <color name="mixer_button_color_9">#C5CAE9</color>
+    <color name="mixer_button_color_10">#9FA8DA</color>
+    <color name="mixer_button_color_11">#90CAF9</color>
+    <color name="mixer_button_color_12">#81D4FA</color>
+    <color name="mixer_button_color_13">#80DEEA</color>
+    <color name="mixer_button_color_14">#80CBC4</color>
+    <color name="mixer_button_color_15">#A5D6A7</color>
+    <color name="mixer_button_color_16">#C5E1A5</color>
+    <color name="mixer_button_color_17">#E6EE9C</color>
+    <color name="mixer_button_color_18">#FFF59D</color>
+    <color name="mixer_button_color_19">#FFE082</color>
+    <color name="mixer_button_color_20">#FFCC80</color>
+    <color name="mixer_button_color_21">#FFAB91</color>
+    <color name="mixer_button_color_22">#BCAAA4</color>
+    <color name="mixer_button_color_23">#EEEEEE</color>
+    <color name="mixer_button_color_24">#B0BEC5</color>
+
+    <color name="color_primary">#212121</color>
+
+</resources>

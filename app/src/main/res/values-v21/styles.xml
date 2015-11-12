@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<style name="AppTheme" parent="handroid:Theme.Material.Light">-->
+    <style name="AppTheme" parent="Theme.AppCompat">
+
+        <item name="colorPrimary">@color/color_primary</item>
+        <!--<item name="textColorPrimary">@android:color/white</item>-->
+    </style>
+</resources>
